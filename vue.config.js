@@ -13,6 +13,6 @@ module.exports = defineConfig({
   pages: {
     index: "src/apps/auth/main.js",
     student: "src/apps/student/main.js",
-    teacher: "src/apps/teacher/main.js",
+    teacher: "src/apps/teacher/main.js", 
   }
 })
